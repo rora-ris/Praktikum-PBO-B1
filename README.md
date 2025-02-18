@@ -1,3 +1,3 @@
-<h1> Nama : Erzachel Senna Rizky Farezi
-<h1> NIM : 24060123130065
-<h1> Kelas : B1 
+# Nama : Erzachel Senna Rizky Farezi
+# NIM : 24060123130065
+# Kelas : B1 
